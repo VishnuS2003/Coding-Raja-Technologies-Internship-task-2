@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+header {
+    background-color: #a40d79;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+#music-player {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #c06363;
+    border-radius: 8px;
+}
+
+audio {
+    width: 30%;
+.playpause-track:hover,
+.prev-track:hover,
+.next-track:hover {
+opacity: 1.0;
+} 
+}
+
+#search-bar {
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 80%;
+    max-width: 300px;
+}
